@@ -1,8 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&family=Montserrat&family=Roboto+Slab:wght@200&display=swap');
+
+*{
+  font-family: 'Montserrat', sans-serif; 
+}
 .App {
   text-align: center;
 }
 
-.App-logo {
+.container{
+  /* margin: 0 400px 0 400px; */
+  padding: 0 95px 0 95px !important; 
+}
+
+.header{
+  margin-top: 30px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgb(155, 153, 153);
+  margin-bottom: 10px;
+}
+
+.card{
+  display: flex !important;
+  flex-direction: row !important;
+  padding: 10px 5px 10px 5px !important;
+  border: none !important;
+  border-bottom: 1px solid rgb(196, 194, 194) !important;
+}
+
+.imgbox{
+  height: 100px;
+  width: 100px;
+}
+
+.tag{
+  margin-top: 40px;
+  margin-bottom: 22px;
+  display: flex;
+}
+
+.textbox{
+  padding-left: 14px;
+}
+
+.containerfooter{
+  margin: 0 190px 0 190px;
+  margin-top: 10px !important;
+  position: relative !important;
+  padding: 0 90px 0 90px !important; 
+}
+
+.footer{
+  padding-left: 5px;
+  margin-top: 30px !important;
+  padding-bottom: 10px !important;
+  margin-bottom: 10px !important;
+}
+.title{
+  font-weight: bolder;
+}
+
+p{
+  text-align: justify !important;
+  text-justify: inter-word !important;
+}
+
+.ex5:hover, .ex5:active {
+  cursor: pointer;
+  text-decoration: underline !important;
+}
+
+.tes:active{
+  background-color: gray;
+}
+
+.loading{
+  display: flex;
+  justify-content: center;
+}
+
+@media only screen and (max-width:768px) {
+  .card{
+    flex-direction: column !important;
+    align-items: center;
+    text-align: center;
+  }
+  .deskripsi{
+    display: none;
+  }
+  .url{
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+  }
+}
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +126,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

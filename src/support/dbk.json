@@ -1,0 +1,143 @@
+{
+  "products": [
+    {
+      "name": "bogor ngariung",
+      "image": "https://bogorngariung.com/wp-content/uploads/logo-bogor-ngariung-komunitas-bogor.png",
+      "deskripsi": "Komunitas se-Bogor berkolaborasi untuk memberikan manfaat yang baik untuk Kota & Kabupaten Bogor.",
+      "categoryId": 4,
+      "web": "https://bogorngariung.com/",
+      "ig": "",
+      "twitter": "",
+      "facebook": "",
+      "id": 1
+    },
+    {
+      "name": "bogorrunners",
+      "image": "https://instagram.fcgk18-2.fna.fbcdn.net/v/t51.2885-19/s320x320/68761812_497171704382278_3933543405744816128_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=D2DHFV83JD0AX9FWMLs&oh=4f9bd484f66769625736948b06b64eb6&oe=5EADE0AC",
+      "deskripsi": "Komunitas Penyebar Virus Lari Kota Hujan",
+      "categoryId": 3,
+      "web": "",
+      "ig": "https://www.instagram.com/bogorrunners/?hl=en",
+      "twitter": "https://www.instagram.com/bogorrunners/?hl=en",
+      "facebook": "",
+      "id": 2
+    },
+    {
+      "name": "Bogor Airsoft Community (BAC)",
+      "image": "https://instagram.fcgk18-1.fna.fbcdn.net/v/t51.2885-19/s320x320/17077012_165700380606104_6369513611810832384_a.jpg?_nc_ht=instagram.fcgk18-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=FPUktoRlwWwAX_kSIL3&oh=b8237d42071d459a4d19dad9927cd938&oe=5EAC9596",
+      "deskripsi": "The Biggest Airsoftgun Community on Bogor",
+      "categoryId": 3,
+      "web": "",
+      "ig": "https://www.instagram.com/airsoftbogor/?hl=id",
+      "twitter": "",
+      "facebook": "",
+      "id": 3
+    },
+    {
+      "name": "Indosweatcamp Bogor",
+      "image": "https://scontent.fcgk18-2.fna.fbcdn.net/v/t31.0-0/p552x414/12901030_893072957472844_4358966534800736463_o.jpg?_nc_cat=107&_nc_sid=85a577&_nc_ohc=i-cTVA0ir5QAX9mVclf&_nc_ht=scontent.fcgk18-2.fna&_nc_tp=6&oh=37429ce905c44d656805f86a3361812b&oe=5EA7CE59",
+      "deskripsi": "kоmunitаs bоdy wеight trаining",
+      "categoryId": 3,
+      "web": "",
+      "ig": "",
+      "twitter": "",
+      "facebook": "https://id-id.facebook.com/INDOSWEATCAMP/",
+      "id": 4
+    },
+    {
+      "name": "Bogor Street Workout (Buitenzbar)",
+      "image": "https://pbs.twimg.com/profile_images/684273640079138816/3rOL3OUZ_400x400.jpg",
+      "deskripsi": "Fit Fun For Free (F4)",
+      "categoryId": 3,
+      "web": "",
+      "ig": "",
+      "twitter": "https://twitter.com/buitenzbarsw",
+      "facebook": "",
+      "id": 5
+    },
+    {
+      "name": "Warung NAKO",
+      "image": "https://instagram.fcgk18-2.fna.fbcdn.net/v/t51.2885-19/s320x320/28753401_153154338708528_4620692878379712512_n.jpg?_nc_ht=instagram.fcgk18-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=fCdgJz6dwXcAX--A1_n&oh=16afc2b33c61e63e7681d574f6a963f0&oe=5EAC4E9D",
+      "deskripsi": "Warung nasi dan kopi instagramable di Bogor",
+      "categoryId": 1,
+      "web": "",
+      "ig": "https://www.instagram.com/warungnako/?hl=en",
+      "twitter": "",
+      "facebook": "",
+      "id": 6
+    },
+    {
+      "name": "Popolo Coffee",
+      "image": "https://scontent-sin6-2.cdninstagram.com/v/t51.2885-19/10948656_843536449020854_965605299_a.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=102&_nc_ohc=4UC_Qerr2FkAX-DRv4e&oh=cb22be3807007bbc9971685d8aa4a1c2&oe=5EADFA2B",
+      "deskripsi": "Brewing coffee since 2015",
+      "categoryId": 1,
+      "web": "",
+      "ig": "https://www.instagram.com/popolocoffee/",
+      "twitter": "",
+      "facebook": "",
+      "id": 7
+    },
+    {
+      "name": "Macaroni Panggang bogor",
+      "image": "https://scontent-sin6-2.cdninstagram.com/v/t51.2885-19/s320x320/13525579_182524405484144_1697435975_a.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=108&_nc_ohc=1Vw6aVRHiwMAX8LIkAY&oh=d09e9f729aa0ff3c4580658d4d287607&oe=5EAF6FE8",
+      "deskripsi": "Makaroni panggang otentik Bogor",
+      "categoryId": 1,
+      "web": "",
+      "ig": "https://www.instagram.com/macaronipanggangbogor/?hl=en",
+      "twitter": "",
+      "facebook": "",
+      "id": 8
+    },
+    {
+      "name": "Momo Milk Barn",
+      "image": "https://scontent-sin6-2.cdninstagram.com/v/t51.2885-19/s320x320/12568197_544551755707497_522400915_a.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=109&_nc_ohc=p8wBT28QtUwAX-HLD_S&oh=3e8e99dd2dbb3c1f6dad0ad96b7146e1&oe=5EAED261",
+      "deskripsi": "Susu murni nasional",
+      "categoryId": 1,
+      "web": "",
+      "ig": "https://www.instagram.com/freshmomomilk/?hl=en",
+      "twitter": "",
+      "facebook": "",
+      "id": 9
+    },
+    {
+      "name": "PIA Apple Pie Bogor",
+      "image": "https://scontent-sin6-2.cdninstagram.com/v/t51.2885-19/s320x320/52958368_329353581261860_2844349066802888704_n.jpg?_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_cat=108&_nc_ohc=oA_L5Kwv-JMAX9Zklhl&oh=1d76e0811421a27cd814f1c774cf981e&oe=5EAE019A",
+      "deskripsi": "Bukan apple pie biasa",
+      "categoryId": 1,
+      "web": "",
+      "ig": "https://www.instagram.com/pia_applepie/?hl=en",
+      "twitter": "",
+      "facebook": "",
+      "id": 10
+    },
+    {
+      "name": "Capoiera Alegria Bogor",
+      "image": "https://pbs.twimg.com/profile_images/462928419068444672/y_j9Zn0q_400x400.jpeg",
+      "deskripsi": "Capoeira Alegria itu tentang kita semua...",
+      "categoryId": "3",
+      "web": "",
+      "ig": "",
+      "twitter": "https://twitter.com/alegria_bogor?lang=id",
+      "facebook": "https://www.facebook.com/Capoeira-alegria-bogor-288430871203357/",
+      "id": 11
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "nama": "kuliner"
+    },
+    {
+      "id": 2,
+      "nama": "kesehatan"
+    },
+    {
+      "id": 3,
+      "nama": "olahraga"
+    },
+    {
+      "id": 4,
+      "nama": "komunitas"
+    }
+  ]
+}
