@@ -146,7 +146,7 @@ class Community extends Component {
                 val.category.nama.includes(category)               
             )
         })
-        this.setState({searchProducts:hasilFilter, limit:5, selection:!this.state.selection, categoryname:category})
+        this.setState({searchProducts:hasilFilter, limit:5, categoryname:category})
     }
 
     onReset=()=>{
